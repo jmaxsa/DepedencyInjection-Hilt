@@ -1,3 +1,4 @@
+include ':pokedex'
 include ':network'
 include ':app'
 rootProject.name = "DI-Hilt"
